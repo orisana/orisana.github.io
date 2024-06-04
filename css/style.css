@@ -42,10 +42,17 @@ table {
 	border-spacing: 0;
 }
 
-.beautiful_text {
+
+.font-OpenSans{
 	font-family: "Open Sans", sans-serif;
+}
+
+.main_text{
 	font-size: 60px;
 	color: white;
+}
+
+.centered{
 	position: absolute;
 	top: 50%;
 	left: 50%;
